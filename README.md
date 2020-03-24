@@ -2,7 +2,9 @@ This is a package for sending messages to enterprise WeChat applications in zabb
 
 ###View at:
 
+```python
 https://pypi.org/project/ZabbixQywechat/1.0.1/
+```python
 
 pip install scpmanWechat
 
