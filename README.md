@@ -11,7 +11,7 @@ pip install scpmanWechat
 
 ### Demo test
 
-<code>
+<pre><code>
 from ZabbixQywechat import Qywechat
 
 import sys
@@ -27,4 +27,4 @@ if __name__ == '__main__':
     Content=str(sys.argv[3])
     Result=Qywechat(Agentid,Corpid,Corpsecret,PATH)
     Result.SendMSGtoWechat(Touser,Subject,Content)
-</code>
+</code></pre>
