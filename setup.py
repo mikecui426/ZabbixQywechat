@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="ZabbixQywechat", # Replace with your own username
-    version="1.0.1",
+    version="1.1.0",
     author="mike",
     author_email="441616837@qq.com",
     description="This is a package for sending messages to enterprise WeChat applications in zabbix",

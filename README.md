@@ -3,7 +3,7 @@ This is a package for sending messages to enterprise WeChat applications in zabb
 ### View at:
 
 <code>
-https://pypi.org/project/ZabbixQywechat/1.0.4/
+https://pypi.org/project/ZabbixQywechat/1.1.0/
 </code>
 
 
@@ -11,6 +11,8 @@ https://pypi.org/project/ZabbixQywechat/1.0.4/
 
 
 ### Demo test
+
+vim test.py
 
 <pre><code>
 from ZabbixQywechat import Qywechat
@@ -29,3 +31,5 @@ if __name__ == '__main__':
     Result=Qywechat(Agentid,Corpid,Corpsecret,PATH)
     Result.SendMSGtoWechat(Touser,Subject,Content)
 </code></pre>
+
+python test.py WechatAccount title content
