@@ -3,12 +3,18 @@ This is a package for sending messages to enterprise WeChat applications in zabb
 ### View at:
 
 <code>
-https://pypi.org/project/ZabbixQywechat/1.1.0/
+https://pypi.org/project/ZabbixQywechat/1.1.1/
 </code>
 
+### Python 2
+<pre><code>
+pip install ZabbixQywechat
+</pre></code>
 
-### pip install ZabbixQywechat
-
+### Python 3
+<pre><code>
+pip3 install ZabbixQywechat
+</pre></code>
 
 ### Demo test
 
