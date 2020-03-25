@@ -3,7 +3,7 @@ This is a package for sending messages to enterprise WeChat applications in zabb
 ### View at:
 
 <code>
-https://pypi.org/project/ZabbixQywechat/1.0.1/
+https://pypi.org/project/ZabbixQywechat/1.0.4/
 </code>
 
 
